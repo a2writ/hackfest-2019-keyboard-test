@@ -19,7 +19,7 @@ References used to write the program:
 
 https://juiced.gs The world's last and longest-running Apple II print publication
 
-https://www.callapple.org Book: All About Applesoft
+https://www.callapple.org Book: All About Applesoft, https://www.callapple.org/books-3/all-about-applesoft-enhanced-edition-released-by-a-p-p-l-e/
 
 
 
