@@ -6,13 +6,14 @@ This project is an example of a HackFest entry written during Kansasfest, www.ka
 
 The program is written to run on physical hardware, a DOS 3.3 Floppy Disk image, download HackFest2019.DSK.
 
-Repository Contents
+Repository Contents:
 
 HackFest2019.DSK  -- DOS 3.3 Disk image
 
 KeyboardTest.bas  -- Applesoft Source code as text file
 
 KeyboardTest.pdf  -- "Fake" Juiced.GS article describing Keyboard Test
+
 
 References used to write the program:
 
